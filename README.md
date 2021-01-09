@@ -1,2 +1,3 @@
-# projectForStudy3
-nexus
+地址  
+192.168.7.21  
+
